@@ -25,3 +25,7 @@
     padding:8px;
     color:black;
 }
+#Message p a{
+    color:blue;
+    text-decoration: none;
+}

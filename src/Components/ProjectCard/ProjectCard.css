@@ -48,13 +48,14 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    padding:0 2px;
     border:none;
     border-radius:7px;
     background-color: #182ACE;
     font-size:14px;
     text-decoration:none;
     color:#000000;
-    font-weight:lighter;
+    font-weight:400;
 }
 
 #projects .project-card .card-container a img{

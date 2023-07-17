@@ -41,7 +41,7 @@ const Contact = () => {
               <h3>Contact</h3>
               <label>
                 <span>Your Name</span>
-                <input type="text" placeholder="What's your name?"/>
+                <input type="text" placeholder="What's your name?" required/>
               </label>
       
               <label>

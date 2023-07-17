@@ -86,7 +86,7 @@
     position: absolute;
     width:50px;
     top:15vh;
-    left:-10vw;
+    left:-15vw;
     z-index: 2;
     animation:7s 10s linear infinite shoot2;
 }
@@ -103,13 +103,13 @@
 }
 @keyframes shoot2{
     30%{
-        transform: translate(-10vw,10vh);
+        transform: translate(-15vw,15vh);
     }
     50%{
         transform: translate(96vw,70vh);
     }
     50.1%{
-        transform: translate(-10vw,10vh);
+        transform: translate(-15vw,15vh);
     }
 }
 

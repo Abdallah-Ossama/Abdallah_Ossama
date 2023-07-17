@@ -30,7 +30,7 @@
 #services #container .card .container button{
     width:50%;
     height:12%;
-    font-size:4px;
+    font-size:12px;
     letter-spacing: 0.6px;
     border:1px solid var(--main-servies-color);
     border-radius:calc(var(--radiusServies) / 1.2);
