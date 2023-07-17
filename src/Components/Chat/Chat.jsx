@@ -3,7 +3,7 @@ import Message from "../Message/Message";
 import sendIcon from "../../assets/images/icons/send-icon.png";
 import Choices from "../Choices/Choices";
 import ChatIcon from "../../assets/images/icons/chatIcon.png";
-import ChatExit from "../../assets/images/icons/chatIcon(x).png"
+import ChatExit from "../../assets/images/icons/chatIconx.png"
 import { useState } from "react";
 import { ChatData } from "../../assets/data/ChatData";
 
